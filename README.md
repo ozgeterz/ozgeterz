@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **terziozge@hotmail.com**
 
-- 🔭 I’m currently working on Frontend
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
