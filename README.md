@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github.com/ozgeterz/ozgeterz/blob/main/work-computer.gif" width="auto">
+<img src="https://github.com/ozgeterz/ozgeterz/blob/main/nakanoart-nakanodrawing.gif" width="auto">
 - 📫 How to reach me **terziozge@hotmail.com**
 
 - 
